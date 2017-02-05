@@ -2,7 +2,7 @@
 
 ### Что это?
 В данном репозитории находится результат исправления ошибок в сайте-шаблоне для агенства недвижимости, сделанном на основе [данного bootstrap шаблона](https://startbootstrap.com/template-overviews/stylish-portfolio/).
-[](https://appledix.github.io/21_valid_markup/)
+Ознакомиться с исправленным сайтом можно [здесь](https://appledix.github.io/21_valid_markup/).
 
 ### Как скачать?
 В терминале: `git clone https://github.com/appledix/21_valid_markup.git`
